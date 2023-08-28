@@ -1,0 +1,36 @@
+  * {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      scroll-behavior: smooth;
+  }
+
+  body {
+      background: white;
+  }
+
+  .text-box {
+      color: rgb(29, 28, 28);
+      font-size: 15px;
+
+      padding: 10%
+  }
+
+  .navbar {
+      width: 95%;
+      margin: auto;
+      padding: 35px;
+      padding-left: 35px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #278c71;
+      color: white;
+      font-size: 10px;
+      font-weight: 100;
+
+  }
+
+  .content {
+      padding: 20px;
+  }
