@@ -1,2 +1,2 @@
-# Tea
-Detecting diseases in Tea Leaves
+# Detecting diseases in Tea Leaves
+
